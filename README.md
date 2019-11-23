@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = SatyamPortfolioViewTool::Renderer.copyright 'Satyam Gupta', 'All rights reserved'
+```
 
 ## Development
 
