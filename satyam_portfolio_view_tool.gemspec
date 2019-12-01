@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{View tool for satyam's portfolio}
   spec.homepage      = "https://google.com"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org/"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/sagupta1001/SatyamPortfolioViewTool"
